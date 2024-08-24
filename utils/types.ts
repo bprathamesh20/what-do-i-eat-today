@@ -1,4 +1,5 @@
 import { ImageProps } from "next/image";
+import { StyleType } from "react-custom-roulette/dist/components/Wheel/types";
 
 export interface WheelData {
     option?: string;
